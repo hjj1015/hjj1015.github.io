@@ -183,6 +183,9 @@ collections:
 
 
 # Defaults
+
+
+# Defaults
 defaults:
   # _posts
   - scope:
