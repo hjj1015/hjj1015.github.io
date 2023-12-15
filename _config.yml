@@ -78,7 +78,7 @@ author:
   location         : "Wuhan, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=pCIsMQIAAAAJ&hl=en"
+  googlescholar    :  #"https://scholar.google.com/citations?user=pCIsMQIAAAAJ&hl=en"
   email            : "hjj_wd@whu.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -94,8 +94,8 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "wei-zhu-2b768515a"
-  orcid            : 
+  linkedin         : #"wei-zhu-2b768515a"
+  orcid            :  "0000-0002-2733-775X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
