@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Wei Zhu's Homepage, University of Rochester"
+title: "Junjun Huang's Homepage, Wuhan University"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
