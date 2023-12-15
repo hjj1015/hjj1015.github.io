@@ -1,11 +1,11 @@
 locale                   : "en-US"
-title                    : "Wei Zhu's Homepage"
+title                    : "Junjun Huang's Homepage"
 title_separator          : "-"
-name                     : &name "Wei Zhu"
-description              : &description "Applied Scientist at AWS"
-url                      : https://zwvews.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Junjun Huang"
+description              : &description "3th-year Ph. D. Student at the Wuhan University"
+url                      : https://hjj1015.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "zwvews/zwvews.github.io"
+repository               : "hjj1015/hjj1015.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -72,14 +72,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Wei Zhu"
-  avatar           : "profile.jpeg"
+  name             : "Junjun Huang"
+  avatar           : "hjj.jpg"
   bio              : "Applied Scientist at AWS"
-  location         : "Pasadena, CA"
+  location         : "Wuhan, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=pCIsMQIAAAAJ&hl=en"
-  email            : "zwvews@gmail.com"
+  googlescholar    : # "https://scholar.google.com/citations?user=pCIsMQIAAAAJ&hl=en"
+  email            : "hjj_wd@whu.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -88,13 +88,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "zwvews"
+  github           : "hjj1015"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : # "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "wei-zhu-2b768515a"
+  linkedin         :  # "wei-zhu-2b768515a"
   orcid            : 
   pinterest        :
   soundcloud       :
