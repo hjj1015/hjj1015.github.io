@@ -14,10 +14,10 @@ Hi, I am Junjun Huang, a Ph. D. student from the [department of computer science
 Prior to coming to UR, I received my M.S. degree from Northwestern Polytechnical University, Xi'an China in 2018 advised by [Prof. Feiping Nie](https://scholar.google.com/citations?user=2oB4nAIAAAAJ&hl=en) and [Prof. Xuelong Li](https://scholar.google.com/citations?user=ahUibskAAAAJ&hl=en).
 --->
 
-Email: <zwvews@gmail.com>
+Email: <hjj_wd@whu.edu.cn>
 
 
-last update: May. 2022
+last update: DEC. 2023
 
 ## Publications: [Google Scholar](https://scholar.google.com/citations?user=pCIsMQIAAAAJ&hl=en)
 
