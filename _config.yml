@@ -185,14 +185,17 @@ collections:
 
 # Defaults
 defaults:
- 
-  # _pages
+  # _posts
   - scope:
       path: ""
-      type: pages
+      type: posts
     values:
       layout: single
       author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
   # _teaching
   - scope:
       path: ""
