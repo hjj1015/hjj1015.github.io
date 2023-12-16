@@ -43,5 +43,5 @@ Ding Z, **Junjun Huang**, Jiao Y, et al. **“Robust Decoding from Binary Measur
    **Hobbies**: Singing, table tennis/chess, military chess.
 
 # For more info
-  If you are interested in me, the following is my Zhihu homepage: [zhihu]("https://www.zhihu.com/people/yi.san.math.whu")
+  If you are interested in me, the following is my Zhihu homepage: [zhihu] "https://www.zhihu.com/people/yi.san.math.whu"
   
