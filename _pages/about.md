@@ -23,9 +23,10 @@ Ding Z, **Junjun Huang**, Jiao Y, et al. **“Robust Decoding from Binary Measur
 **Junjun Huang**, Xiliang Lu, Jerry Zhijian Yang, **“Robust Fuzzy local k-plane clustering with mixture distance of hinge loss and L1 norm”**, Information Sciences (2023.Q1/IF :8.3, Required reviews completed).
 **JunjunHuang**, Xiliang Lu, Jerry Zhijian Yang, “DBSCAN with local covariance matrix for 1D manifold clustering” (preparation).
 
-## Invention Patent
-**Junjun Huang**, Wu Shihong, Chen Wenxuan,et al. **"Label generation Method, Device, storage medium and electronic Equipment"** (Application No. 202310317446.6).
-**Huang Junjun**, Wu Yongtao,et al. **"Method and device for orthogonal layout of compact Composite graph based on grid division"** (Application No. 202310583456.4).
+# Invention Patent
+**Junjun Huang**, Wu Shihong, Chen Wenxuan,et al. "Label generation Method, Device, storage medium and electronic Equipment" (Application No. 202310317446.6).
+
+**Junjun Huang**, Wu Yongtao,et al. "Method and device for orthogonal layout of compact Composite graph based on grid division" (Application No. 202310583456.4).
 
 # Educational background
   1. 2018 - 2021, **PhD degree**, School of Mathematics and Statistics, School of Computational Mathematics, Wuhan University, Wuhan, China
@@ -34,7 +35,9 @@ Ding Z, **Junjun Huang**, Jiao Y, et al. **“Robust Decoding from Binary Measur
   
 ## Professional skills/hobbies
    **Fields of expertise**: Good at problem investigation and modeling, optimal design of numerical algorithms, research direction is fuzzy clustering and other unsupervised algorithms, familiar with common machine learning and deep learning models.
+   
    **Programming skills**: Proficient in Matlab, Python, familiar with the basic operation of Linux system.
+   
    **Hobbies**: Singing, table tennis/chess, military chess.
 
 # For more info
