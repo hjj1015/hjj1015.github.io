@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Junjun Huang's Homepage, Wuhan University"
+title: "Junjun Huang's Homepage"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -20,6 +20,10 @@ last update: DEC. 2023
 Dai M,Dai S, **Junjun Huang**, et al. **“Truncated L1 Regularized Linear Regression : Theory and Algorithm”**, Communications in Computational Physics, 2021, 30(1) : 190-209. (Q2/IF :3.25).
 Ding Z, **Junjun Huang**, Jiao Y, et al. **“Robust Decoding from Binary Measurements with Cardinality Constraint Least Squares”**, Communications in Computational Physics (2023.Q2/IF :3.25, Awaiting reviewer scores).
 **Junjun Huang**, Xiliang Lu, Jerry Zhijian Yang, **“Sparse Membership Affinity Lasso for Fuzzy Clustering”** , IEEE Transactions on Fuzzy Systems,2023,DOI : 10.1109/TFUZZ.2023.3327688
+        
+        
+        
+        
         
         
         
