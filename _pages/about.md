@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Junjun Huang, I am currently a postdoctoral fellow in the School of Mathematics and Statistics of Wuhan University (co-trained by State Network Digital Science and Technology), studying sparse recovery, fuzzy clustering and other machine learning algorithms under the guidance of professors Lv Xiliang and Yang Zhijian. During the doctoral period, my research interests mainly include: sparse recovery, fuzzy clustering, hyperplane clustering, and other machine learning algorithms. During the post-doctoral period, I began to focus on clustering algorithms for graph learning, multi-view clustering, semi-supervised learning, etc., and also dabble in deep learning in image segmentation and anomaly detection.
+Welcome to my homepage, My name is Junjun Huang, I am currently a postdoctoral fellow in the School of Mathematics and Statistics of Wuhan University (co-trained by State Network Digital Science and Technology), studying sparse recovery, fuzzy clustering and other machine learning algorithms under the guidance of professors Lv Xiliang and Yang Zhijian. During the doctoral period, my research interests mainly include: sparse recovery, fuzzy clustering, hyperplane clustering, and other machine learning algorithms. During the post-doctoral period, I began to focus on clustering algorithms for graph learning, multi-view clustering, semi-supervised learning, etc., and also dabble in deep learning in image segmentation and anomaly detection.
 
 
 Email: <hjj_wd@whu.edu.cn>
