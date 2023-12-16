@@ -17,17 +17,9 @@ Email: <hjj_wd@whu.edu.cn>
 last update: DEC. 2023
 
 # Publications
-Dai M,Dai S, **Junjun Huang**, et al. **“Truncated L1 Regularized Linear Regression : Theory and Algorithm”**, Communications in Computational Physics, 2021, 30(1) : 190-209. (Q2/IF :3.25).
+Dai M,Dai S, **Junjun Huang**, et al. **“Truncated L1 Regularized Linear Regression : Theory and Algorithm”**, Communications in Computational Physics, 2021, 30(1) : 190-209. DOI: 10.4208/cicp.OA-2020-0250.
 Ding Z, **Junjun Huang**, Jiao Y, et al. **“Robust Decoding from Binary Measurements with Cardinality Constraint Least Squares”**, Communications in Computational Physics (2023.Q2/IF :3.25, Awaiting reviewer scores).
-**Junjun Huang**, Xiliang Lu, Jerry Zhijian Yang, **“Sparse Membership Affinity Lasso for Fuzzy Clustering”** , IEEE Transactions on Fuzzy Systems,2023,DOI : 10.1109/TFUZZ.2023.3327688
-        
-        
-        
-        
-        
-        
-        
-        . (Q1/IF :11.9).
+**Junjun Huang**, Xiliang Lu, Jerry Zhijian Yang, **“Sparse Membership Affinity Lasso for Fuzzy Clustering”** , IEEE Transactions on Fuzzy Systems,2023,DOI : 10.1109/TFUZZ.2023.3327688.
 **Junjun Huang**, Xiliang Lu, Jerry Zhijian Yang, **“Robust Fuzzy local k-plane clustering with mixture distance of hinge loss and L1 norm”**, Information Sciences (2023.Q1/IF :8.3, Required reviews completed).
 **JunjunHuang**, Xiliang Lu, Jerry Zhijian Yang, “DBSCAN with local covariance matrix for 1D manifold clustering” (preparation).
 
@@ -50,5 +42,5 @@ Ding Z, **Junjun Huang**, Jiao Y, et al. **“Robust Decoding from Binary Measur
 
 # For more info
   If you are interested in me, the following is my Zhihu homepage: 
-  [zhihu]: ("https://www.zhihu.com/people/yi.san.math.whu")
+  [zhihu]: <"https://www.zhihu.com/people/yi.san.math.whu">
   
