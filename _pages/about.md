@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my homepage, My name is Junjun Huang, I am currently a postdoctoral fellow in the School of Mathematics and Statistics of Wuhan University, studying sparse recovery, fuzzy clustering and other machine learning algorithms under the guidance of professors Lv Xiliang and Yang Zhijian. During the doctoral period, my research interests mainly include: sparse recovery, fuzzy clustering, hyperplane clustering, and other machine learning algorithms. During the post-doctoral period, I began to focus on clustering algorithms for graph learning, multi-view clustering, semi-supervised learning, etc., and also dabble in deep learning in image segmentation and anomaly detection.
+Welcome to my homepage, My name is Junjun Huang, I am currently a postdoctoral fellow in the School of Mathematics and Statistics of Wuhan University, studying sparse recovery, fuzzy clustering and other machine learning algorithms under the guidance of professors Lv Xiliang and Yang Zhijian. During the doctoral period, my research interests mainly include: sparse recovery, fuzzy clustering, hyperplane clustering, and other machine learning algorithms.I have Published 4 SCI papers (1 in Q1, 1 in Q2, 2 in Q3),2 invention patents,1 SCI paper under review in Q1.
 
 
 Email: <hjj_wd@whu.edu.cn>
@@ -17,15 +17,15 @@ Email: <hjj_wd@whu.edu.cn>
 last update: DEC. 2023
 
 # Publications
-Dai M,Dai S, **Junjun Huang**, et al. **“Truncated L1 Regularized Linear Regression : Theory and Algorithm”**, Communications in Computational Physics, 2021, 30(1) : 190-209. DOI: 10.4208/cicp.OA-2020-0250.
+Dai M,Dai S, **Junjun Huang**, et al. **“Truncated L1 Regularized Linear Regression : Theory and Algorithm”**, **“Communications in Computational Physics”**, 2021, 30(1) : 190-209. DOI: 10.4208/cicp.OA-2020-0250.  (Q3/IF :3.25)
 
-Ding Z, **Junjun Huang**, Jiao Y, et al. **“Robust Decoding from Binary Measurements with Cardinality Constraint Least Squares”**, Communications in Computational Physics, 2024 (accepted). 
+Ding Z, **Junjun Huang**, Jiao Y, et al. **“Robust Decoding from Binary Measurements with Cardinality Constraint Least Squares”**, **“Communications in Computational Physics”**, 2024 (accepted,  Q3/IF :3.25). 
 
-**Junjun Huang**, Xiliang Lu, Jerry Zhijian Yang, **“Sparse Membership Affinity Lasso for Fuzzy Clustering”** , IEEE Transactions on Fuzzy Systems,2023,DOI : 10.1109/TFUZZ.2023.3327688.
+**Junjun Huang**, Xiliang Lu, Jerry Zhijian Yang, **“Sparse Membership Affinity Lasso for Fuzzy Clustering”** , **“ IEEE Transactions on Fuzzy Systems”**,2023,DOI : 10.1109/TFUZZ.2023.3327688. (”**Q1/IF: 11.9”**)
 
-Chenguang Duan, **Junjun Huang**, Yuling Jiao, Xiliang Lu, Jerry Zhijian Yang,**“Current density impedance imaging with PINNs”**,Journal of Computational and Applied Mathematics,2024,DOI : 10.1016/j.cam.2024.116120
+Chenguang Duan, **Junjun Huang**, Yuling Jiao, Xiliang Lu, Jerry Zhijian Yang,**“Current density impedance imaging with PINNs”**,**“ Journal of Computational and Applied Mathematics”**,2024,DOI : 10.1016/j.cam.2024.116120 (”**Q2/IF: 2.1”**)
 
-**Junjun Huang**, Xiliang Lu, Jerry Zhijian Yang, **“Robust Fuzzy local k-plane clustering with mixture distance of hinge loss and L1 norm”**, Information Sciences (2023.Q1/IF :8.3, Required reviews completed).
+**Junjun Huang**, Xiliang Lu, Jerry Zhijian Yang, **“Robust Fuzzy local k-plane clustering with mixture distance of hinge loss and L1 norm”**, **“Information Sciences”** (2023.Q1/IF :8.3, Required reviews completed).
 
 **JunjunHuang**, Xiliang Lu, Jerry Zhijian Yang, “DBSCAN with local covariance matrix for 1D manifold clustering” (preparation).
 
