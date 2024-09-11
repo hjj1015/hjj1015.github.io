@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my homepage, My name is Junjun Huang, I am currently a postdoctoral fellow in the School of Mathematics and Statistics of Wuhan University, studying sparse recovery, fuzzy clustering and other machine learning algorithms under the guidance of professors Lv Xiliang and Yang Zhijian. During the doctoral period, my research interests mainly include: sparse recovery, fuzzy clustering, hyperplane clustering, and other machine learning algorithms.I have Published 4 SCI papers (1 in Q1, 1 in Q2, 2 in Q3),2 invention patents,1 SCI paper under review in Q1.
+Welcome to my homepage, My name is Junjun Huang, I am currently a postdoctoral fellow in the School of Mathematics and Statistics of Wuhan University, studying sparse recovery, fuzzy clustering and other machine learning algorithms under the guidance of professors Lv Xiliang and Yang Zhijian. During the doctoral period, my research interests mainly include: sparse recovery, fuzzy clustering, hyperplane clustering, and other machine learning algorithms.I have Published ”**4 SCI papers”** (1 in Q1, 1 in Q2, 2 in Q3),”**2 invention patents”**,1 SCI paper under review in Q1.
 
 
 Email: <hjj_wd@whu.edu.cn>
@@ -17,9 +17,9 @@ Email: <hjj_wd@whu.edu.cn>
 last update: DEC. 2023
 
 # Publications
-Dai M,Dai S, **Junjun Huang**, et al. **“Truncated L1 Regularized Linear Regression : Theory and Algorithm”**, **“Communications in Computational Physics”**, 2021, 30(1) : 190-209. DOI: 10.4208/cicp.OA-2020-0250.  (Q3/IF :3.25)
+Dai M,Dai S, **Junjun Huang**, et al. **“Truncated L1 Regularized Linear Regression : Theory and Algorithm”**, **“Communications in Computational Physics”**, 2021, 30(1) : 190-209. DOI: 10.4208/cicp.OA-2020-0250.  (”**Q3/IF :3.25”**)
 
-Ding Z, **Junjun Huang**, Jiao Y, et al. **“Robust Decoding from Binary Measurements with Cardinality Constraint Least Squares”**, **“Communications in Computational Physics”**, 2024 (accepted,  Q3/IF :3.25). 
+Ding Z, **Junjun Huang**, Jiao Y, et al. **“Robust Decoding from Binary Measurements with Cardinality Constraint Least Squares”**, **“Communications in Computational Physics”**, 2024 (accepted,  ”**Q3/IF :3.25”**). 
 
 **Junjun Huang**, Xiliang Lu, Jerry Zhijian Yang, **“Sparse Membership Affinity Lasso for Fuzzy Clustering”** , **“ IEEE Transactions on Fuzzy Systems”**,2023,DOI : 10.1109/TFUZZ.2023.3327688. (”**Q1/IF: 11.9”**)
 
